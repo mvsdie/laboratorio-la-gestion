@@ -8,7 +8,7 @@ Propuesta académica para el Laboratorio L&A (Lorenzo-Angeloni).
 
 ### Integrantes
 
-- Cynthia Tamara Steciuk
+- [Cynthia Tamara Steciuk] (https://github.com/tamarasteciuk-maker) 
 - Mikaela Victoria Solís
 - Alan de Olivera
 
